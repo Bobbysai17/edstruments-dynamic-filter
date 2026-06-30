@@ -1,0 +1,1296 @@
+[
+  {
+    "id": 1,
+    "name": "John Smith",
+    "email": "john.smith1@company.com",
+    "department": "Operations",
+    "role": "Operations Manager",
+    "salary": 113000,
+    "joinDate": "2021-02-14",
+    "isActive": true,
+    "skills": [
+      "Python",
+      "Tableau",
+      "Excel"
+    ],
+    "address": {
+      "city": "New York",
+      "state": "NY",
+      "country": "USA"
+    },
+    "projects": 2,
+    "lastReview": "2023-12-05",
+    "performanceRating": 4.3
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "email": "jane.smith2@company.com",
+    "department": "Design",
+    "role": "Creative Director",
+    "salary": 91000,
+    "joinDate": "2018-03-30",
+    "isActive": true,
+    "skills": [
+      "Node.js",
+      "Rust",
+      "GraphQL",
+      "Docker"
+    ],
+    "address": {
+      "city": "Austin",
+      "state": "TX",
+      "country": "USA"
+    },
+    "projects": 3,
+    "lastReview": "2023-01-05",
+    "performanceRating": 4.4
+  },
+  {
+    "id": 3,
+    "name": "Michael Johnson",
+    "email": "michael.johnson3@company.com",
+    "department": "Design",
+    "role": "Product Designer",
+    "salary": 86000,
+    "joinDate": "2019-02-28",
+    "isActive": true,
+    "skills": [
+      "Node.js",
+      "Figma",
+      "AWS",
+      "GraphQL",
+      "Excel"
+    ],
+    "address": {
+      "city": "Seattle",
+      "state": "WA",
+      "country": "USA"
+    },
+    "projects": 4,
+    "lastReview": "2023-06-11",
+    "performanceRating": 4.4
+  },
+  {
+    "id": 4,
+    "name": "Emily Johnson",
+    "email": "emily.johnson4@company.com",
+    "department": "Marketing",
+    "role": "SEO Specialist",
+    "salary": 92000,
+    "joinDate": "2024-03-08",
+    "isActive": true,
+    "skills": [
+      "Vue",
+      "React"
+    ],
+    "address": {
+      "city": "Chicago",
+      "state": "IL",
+      "country": "USA"
+    },
+    "projects": 5,
+    "lastReview": "2023-12-12",
+    "performanceRating": 4.5
+  },
+  {
+    "id": 5,
+    "name": "David Williams",
+    "email": "david.williams5@company.com",
+    "department": "Sales",
+    "role": "Sales Director",
+    "salary": 99000,
+    "joinDate": "2018-09-03",
+    "isActive": true,
+    "skills": [
+      "Figma",
+      "MongoDB",
+      "Java"
+    ],
+    "address": {
+      "city": "Boston",
+      "state": "MA",
+      "country": "USA"
+    },
+    "projects": 6,
+    "lastReview": "2023-08-18",
+    "performanceRating": 4.5
+  },
+  {
+    "id": 6,
+    "name": "Sarah Williams",
+    "email": "sarah.williams6@company.com",
+    "department": "Legal",
+    "role": "Legal Counsel",
+    "salary": 129000,
+    "joinDate": "2020-12-09",
+    "isActive": true,
+    "skills": [
+      "Salesforce",
+      "React",
+      "Node.js",
+      "Java"
+    ],
+    "address": {
+      "city": "Denver",
+      "state": "CO",
+      "country": "USA"
+    },
+    "projects": 7,
+    "lastReview": "2024-03-15",
+    "performanceRating": 4.6
+  },
+  {
+    "id": 7,
+    "name": "Robert Brown",
+    "email": "robert.brown7@company.com",
+    "department": "Design",
+    "role": "UI Designer",
+    "salary": 71000,
+    "joinDate": "2021-04-20",
+    "isActive": false,
+    "skills": [
+      "MongoDB",
+      "Angular",
+      "Python",
+      "Go",
+      "Tableau"
+    ],
+    "address": {
+      "city": "Atlanta",
+      "state": "GA",
+      "country": "USA"
+    },
+    "projects": 8,
+    "lastReview": "2024-02-01",
+    "performanceRating": 4.1
+  },
+  {
+    "id": 8,
+    "name": "Lisa Brown",
+    "email": "lisa.brown8@company.com",
+    "department": "Engineering",
+    "role": "Junior Developer",
+    "salary": 132000,
+    "joinDate": "2020-10-26",
+    "isActive": true,
+    "skills": [
+      "AWS",
+      "Java"
+    ],
+    "address": {
+      "city": "Portland",
+      "state": "OR",
+      "country": "USA"
+    },
+    "projects": 1,
+    "lastReview": "2024-10-19",
+    "performanceRating": 3.4
+  },
+  {
+    "id": 9,
+    "name": "James Jones",
+    "email": "james.jones9@company.com",
+    "department": "Design",
+    "role": "UI Designer",
+    "salary": 86000,
+    "joinDate": "2023-12-10",
+    "isActive": true,
+    "skills": [
+      "Figma",
+      "Salesforce",
+      "Node.js"
+    ],
+    "address": {
+      "city": "Miami",
+      "state": "FL",
+      "country": "USA"
+    },
+    "projects": 2,
+    "lastReview": "2024-09-26",
+    "performanceRating": 4.6
+  },
+  {
+    "id": 10,
+    "name": "Maria Jones",
+    "email": "maria.jones10@company.com",
+    "department": "Design",
+    "role": "Product Designer",
+    "salary": 106000,
+    "joinDate": "2019-06-11",
+    "isActive": true,
+    "skills": [
+      "Angular",
+      "Python",
+      "Figma",
+      "Power BI"
+    ],
+    "address": {
+      "city": "Toronto",
+      "state": "ON",
+      "country": "Canada"
+    },
+    "projects": 3,
+    "lastReview": "2023-09-24",
+    "performanceRating": 4.5
+  },
+  {
+    "id": 11,
+    "name": "William Garcia",
+    "email": "william.garcia11@company.com",
+    "department": "Legal",
+    "role": "Legal Counsel",
+    "salary": 114000,
+    "joinDate": "2020-06-01",
+    "isActive": true,
+    "skills": [
+      "SQL",
+      "Angular",
+      "Java",
+      "AWS",
+      "Vue"
+    ],
+    "address": {
+      "city": "London",
+      "state": "ENG",
+      "country": "UK"
+    },
+    "projects": 4,
+    "lastReview": "2024-05-27",
+    "performanceRating": 3.3
+  },
+  {
+    "id": 12,
+    "name": "Jennifer Garcia",
+    "email": "jennifer.garcia12@company.com",
+    "department": "Engineering",
+    "role": "QA Engineer",
+    "salary": 82000,
+    "joinDate": "2021-08-04",
+    "isActive": true,
+    "skills": [
+      "Python",
+      "Java"
+    ],
+    "address": {
+      "city": "Berlin",
+      "state": "BE",
+      "country": "Germany"
+    },
+    "projects": 5,
+    "lastReview": "2023-04-11",
+    "performanceRating": 3.7
+  },
+  {
+    "id": 13,
+    "name": "Richard Miller",
+    "email": "richard.miller13@company.com",
+    "department": "Finance",
+    "role": "Controller",
+    "salary": 88000,
+    "joinDate": "2024-05-16",
+    "isActive": true,
+    "skills": [
+      "Angular",
+      "React",
+      "Python"
+    ],
+    "address": {
+      "city": "Sydney",
+      "state": "NSW",
+      "country": "Australia"
+    },
+    "projects": 6,
+    "lastReview": "2023-09-19",
+    "performanceRating": 4.2
+  },
+  {
+    "id": 14,
+    "name": "Patricia Miller",
+    "email": "patricia.miller14@company.com",
+    "department": "HR",
+    "role": "Recruiter",
+    "salary": 135000,
+    "joinDate": "2023-05-18",
+    "isActive": false,
+    "skills": [
+      "Go",
+      "React",
+      "Power BI",
+      "Python"
+    ],
+    "address": {
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "USA"
+    },
+    "projects": 7,
+    "lastReview": "2023-08-09",
+    "performanceRating": 4.3
+  },
+  {
+    "id": 15,
+    "name": "Joseph Davis",
+    "email": "joseph.davis15@company.com",
+    "department": "Marketing",
+    "role": "Marketing Manager",
+    "salary": 146000,
+    "joinDate": "2020-01-21",
+    "isActive": true,
+    "skills": [
+      "Tableau",
+      "Node.js",
+      "Rust",
+      "MongoDB",
+      "Docker"
+    ],
+    "address": {
+      "city": "New York",
+      "state": "NY",
+      "country": "USA"
+    },
+    "projects": 8,
+    "lastReview": "2024-11-06",
+    "performanceRating": 2.8
+  },
+  {
+    "id": 16,
+    "name": "Linda Davis",
+    "email": "linda.davis16@company.com",
+    "department": "Operations",
+    "role": "Supply Chain Analyst",
+    "salary": 80000,
+    "joinDate": "2023-11-19",
+    "isActive": true,
+    "skills": [
+      "Go",
+      "AWS"
+    ],
+    "address": {
+      "city": "Austin",
+      "state": "TX",
+      "country": "USA"
+    },
+    "projects": 1,
+    "lastReview": "2023-12-23",
+    "performanceRating": 3.4
+  },
+  {
+    "id": 17,
+    "name": "Thomas Rodriguez",
+    "email": "thomas.rodriguez17@company.com",
+    "department": "Marketing",
+    "role": "Content Strategist",
+    "salary": 125000,
+    "joinDate": "2023-10-16",
+    "isActive": true,
+    "skills": [
+      "SQL",
+      "Docker",
+      "Vue"
+    ],
+    "address": {
+      "city": "Seattle",
+      "state": "WA",
+      "country": "USA"
+    },
+    "projects": 2,
+    "lastReview": "2023-11-20",
+    "performanceRating": 3.3
+  },
+  {
+    "id": 18,
+    "name": "Elizabeth Rodriguez",
+    "email": "elizabeth.rodriguez18@company.com",
+    "department": "Marketing",
+    "role": "Marketing Manager",
+    "salary": 101000,
+    "joinDate": "2018-06-11",
+    "isActive": true,
+    "skills": [
+      "Tableau",
+      "Salesforce",
+      "Power BI",
+      "AWS"
+    ],
+    "address": {
+      "city": "Chicago",
+      "state": "IL",
+      "country": "USA"
+    },
+    "projects": 3,
+    "lastReview": "2023-01-22",
+    "performanceRating": 3.4
+  },
+  {
+    "id": 19,
+    "name": "Charles Martinez",
+    "email": "charles.martinez19@company.com",
+    "department": "Marketing",
+    "role": "Marketing Manager",
+    "salary": 141000,
+    "joinDate": "2020-11-23",
+    "isActive": true,
+    "skills": [
+      "Vue",
+      "Tableau",
+      "SQL",
+      "Angular",
+      "React"
+    ],
+    "address": {
+      "city": "Boston",
+      "state": "MA",
+      "country": "USA"
+    },
+    "projects": 4,
+    "lastReview": "2023-08-30",
+    "performanceRating": 2.7
+  },
+  {
+    "id": 20,
+    "name": "Barbara Martinez",
+    "email": "barbara.martinez20@company.com",
+    "department": "Operations",
+    "role": "Project Manager",
+    "salary": 139000,
+    "joinDate": "2019-08-28",
+    "isActive": true,
+    "skills": [
+      "Excel",
+      "Figma"
+    ],
+    "address": {
+      "city": "Denver",
+      "state": "CO",
+      "country": "USA"
+    },
+    "projects": 5,
+    "lastReview": "2024-02-17",
+    "performanceRating": 2.6
+  },
+  {
+    "id": 21,
+    "name": "Daniel Hernandez",
+    "email": "daniel.hernandez21@company.com",
+    "department": "Engineering",
+    "role": "Senior Developer",
+    "salary": 104000,
+    "joinDate": "2022-11-18",
+    "isActive": false,
+    "skills": [
+      "Node.js",
+      "GraphQL",
+      "Docker"
+    ],
+    "address": {
+      "city": "Atlanta",
+      "state": "GA",
+      "country": "USA"
+    },
+    "projects": 6,
+    "lastReview": "2024-03-01",
+    "performanceRating": 4.2
+  },
+  {
+    "id": 22,
+    "name": "Susan Hernandez",
+    "email": "susan.hernandez22@company.com",
+    "department": "Design",
+    "role": "UX Researcher",
+    "salary": 141000,
+    "joinDate": "2020-05-27",
+    "isActive": true,
+    "skills": [
+      "Java",
+      "Angular",
+      "Go",
+      "Salesforce"
+    ],
+    "address": {
+      "city": "Portland",
+      "state": "OR",
+      "country": "USA"
+    },
+    "projects": 7,
+    "lastReview": "2024-12-02",
+    "performanceRating": 2.8
+  },
+  {
+    "id": 23,
+    "name": "Matthew Lopez",
+    "email": "matthew.lopez23@company.com",
+    "department": "Engineering",
+    "role": "Junior Developer",
+    "salary": 114000,
+    "joinDate": "2020-05-19",
+    "isActive": true,
+    "skills": [
+      "TypeScript",
+      "Python",
+      "MongoDB",
+      "Figma",
+      "Java"
+    ],
+    "address": {
+      "city": "Miami",
+      "state": "FL",
+      "country": "USA"
+    },
+    "projects": 8,
+    "lastReview": "2023-10-14",
+    "performanceRating": 4.7
+  },
+  {
+    "id": 24,
+    "name": "Jessica Lopez",
+    "email": "jessica.lopez24@company.com",
+    "department": "Design",
+    "role": "Creative Director",
+    "salary": 95000,
+    "joinDate": "2019-06-03",
+    "isActive": true,
+    "skills": [
+      "Power BI",
+      "Angular"
+    ],
+    "address": {
+      "city": "Toronto",
+      "state": "ON",
+      "country": "Canada"
+    },
+    "projects": 1,
+    "lastReview": "2023-10-16",
+    "performanceRating": 4
+  },
+  {
+    "id": 25,
+    "name": "Anthony Gonzalez",
+    "email": "anthony.gonzalez25@company.com",
+    "department": "Operations",
+    "role": "Operations Manager",
+    "salary": 145000,
+    "joinDate": "2018-12-23",
+    "isActive": true,
+    "skills": [
+      "TypeScript",
+      "Tableau",
+      "SQL"
+    ],
+    "address": {
+      "city": "London",
+      "state": "ENG",
+      "country": "UK"
+    },
+    "projects": 2,
+    "lastReview": "2024-06-18",
+    "performanceRating": 3.2
+  },
+  {
+    "id": 26,
+    "name": "Karen Gonzalez",
+    "email": "karen.gonzalez26@company.com",
+    "department": "Engineering",
+    "role": "Tech Lead",
+    "salary": 85000,
+    "joinDate": "2020-02-03",
+    "isActive": true,
+    "skills": [
+      "Go",
+      "TypeScript",
+      "Java",
+      "Tableau"
+    ],
+    "address": {
+      "city": "Berlin",
+      "state": "BE",
+      "country": "Germany"
+    },
+    "projects": 3,
+    "lastReview": "2024-12-06",
+    "performanceRating": 3
+  },
+  {
+    "id": 27,
+    "name": "Mark Wilson",
+    "email": "mark.wilson27@company.com",
+    "department": "Operations",
+    "role": "Operations Manager",
+    "salary": 131000,
+    "joinDate": "2022-08-25",
+    "isActive": true,
+    "skills": [
+      "Power BI",
+      "AWS",
+      "Figma",
+      "Excel",
+      "Vue"
+    ],
+    "address": {
+      "city": "Sydney",
+      "state": "NSW",
+      "country": "Australia"
+    },
+    "projects": 4,
+    "lastReview": "2023-10-17",
+    "performanceRating": 3
+  },
+  {
+    "id": 28,
+    "name": "Nancy Wilson",
+    "email": "nancy.wilson28@company.com",
+    "department": "Operations",
+    "role": "Project Manager",
+    "salary": 137000,
+    "joinDate": "2021-05-25",
+    "isActive": false,
+    "skills": [
+      "GraphQL",
+      "Kubernetes"
+    ],
+    "address": {
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "USA"
+    },
+    "projects": 5,
+    "lastReview": "2024-09-10",
+    "performanceRating": 3.7
+  },
+  {
+    "id": 29,
+    "name": "Donald Anderson",
+    "email": "donald.anderson29@company.com",
+    "department": "Engineering",
+    "role": "Junior Developer",
+    "salary": 105000,
+    "joinDate": "2023-05-25",
+    "isActive": true,
+    "skills": [
+      "SQL",
+      "AWS",
+      "Docker"
+    ],
+    "address": {
+      "city": "New York",
+      "state": "NY",
+      "country": "USA"
+    },
+    "projects": 6,
+    "lastReview": "2024-11-16",
+    "performanceRating": 2.6
+  },
+  {
+    "id": 30,
+    "name": "Betty Anderson",
+    "email": "betty.anderson30@company.com",
+    "department": "Sales",
+    "role": "Sales Director",
+    "salary": 118000,
+    "joinDate": "2019-06-26",
+    "isActive": true,
+    "skills": [
+      "Angular",
+      "Figma",
+      "TypeScript",
+      "AWS"
+    ],
+    "address": {
+      "city": "Austin",
+      "state": "TX",
+      "country": "USA"
+    },
+    "projects": 7,
+    "lastReview": "2024-12-20",
+    "performanceRating": 3.6
+  },
+  {
+    "id": 31,
+    "name": "Steven Thomas",
+    "email": "steven.thomas31@company.com",
+    "department": "HR",
+    "role": "HR Manager",
+    "salary": 129000,
+    "joinDate": "2023-11-30",
+    "isActive": true,
+    "skills": [
+      "Salesforce",
+      "React",
+      "Rust",
+      "TypeScript",
+      "SQL"
+    ],
+    "address": {
+      "city": "Seattle",
+      "state": "WA",
+      "country": "USA"
+    },
+    "projects": 8,
+    "lastReview": "2023-12-25",
+    "performanceRating": 3.9
+  },
+  {
+    "id": 32,
+    "name": "Helen Thomas",
+    "email": "helen.thomas32@company.com",
+    "department": "HR",
+    "role": "Recruiter",
+    "salary": 148000,
+    "joinDate": "2018-03-03",
+    "isActive": true,
+    "skills": [
+      "Go",
+      "Docker"
+    ],
+    "address": {
+      "city": "Chicago",
+      "state": "IL",
+      "country": "USA"
+    },
+    "projects": 1,
+    "lastReview": "2023-12-02",
+    "performanceRating": 2.5
+  },
+  {
+    "id": 33,
+    "name": "Paul Taylor",
+    "email": "paul.taylor33@company.com",
+    "department": "Marketing",
+    "role": "SEO Specialist",
+    "salary": 124000,
+    "joinDate": "2019-10-16",
+    "isActive": true,
+    "skills": [
+      "Tableau",
+      "MongoDB",
+      "SQL"
+    ],
+    "address": {
+      "city": "Boston",
+      "state": "MA",
+      "country": "USA"
+    },
+    "projects": 2,
+    "lastReview": "2023-04-16",
+    "performanceRating": 4
+  },
+  {
+    "id": 34,
+    "name": "Sandra Taylor",
+    "email": "sandra.taylor34@company.com",
+    "department": "Design",
+    "role": "Product Designer",
+    "salary": 76000,
+    "joinDate": "2020-03-19",
+    "isActive": true,
+    "skills": [
+      "React",
+      "Figma",
+      "AWS",
+      "Power BI"
+    ],
+    "address": {
+      "city": "Denver",
+      "state": "CO",
+      "country": "USA"
+    },
+    "projects": 3,
+    "lastReview": "2024-09-28",
+    "performanceRating": 2.9
+  },
+  {
+    "id": 35,
+    "name": "Andrew Moore",
+    "email": "andrew.moore35@company.com",
+    "department": "Legal",
+    "role": "Compliance Officer",
+    "salary": 113000,
+    "joinDate": "2024-05-05",
+    "isActive": false,
+    "skills": [
+      "Excel",
+      "Docker",
+      "Node.js",
+      "Python",
+      "React"
+    ],
+    "address": {
+      "city": "Atlanta",
+      "state": "GA",
+      "country": "USA"
+    },
+    "projects": 4,
+    "lastReview": "2023-11-09",
+    "performanceRating": 4.6
+  },
+  {
+    "id": 36,
+    "name": "Donna Moore",
+    "email": "donna.moore36@company.com",
+    "department": "Finance",
+    "role": "Financial Analyst",
+    "salary": 131000,
+    "joinDate": "2022-06-07",
+    "isActive": true,
+    "skills": [
+      "AWS",
+      "Rust"
+    ],
+    "address": {
+      "city": "Portland",
+      "state": "OR",
+      "country": "USA"
+    },
+    "projects": 5,
+    "lastReview": "2023-08-01",
+    "performanceRating": 2.6
+  },
+  {
+    "id": 37,
+    "name": "Joshua Jackson",
+    "email": "joshua.jackson37@company.com",
+    "department": "HR",
+    "role": "People Operations",
+    "salary": 66000,
+    "joinDate": "2020-12-30",
+    "isActive": true,
+    "skills": [
+      "GraphQL",
+      "Rust",
+      "AWS"
+    ],
+    "address": {
+      "city": "Miami",
+      "state": "FL",
+      "country": "USA"
+    },
+    "projects": 6,
+    "lastReview": "2024-10-06",
+    "performanceRating": 4.4
+  },
+  {
+    "id": 38,
+    "name": "Carol Jackson",
+    "email": "carol.jackson38@company.com",
+    "department": "Finance",
+    "role": "CFO Assistant",
+    "salary": 113000,
+    "joinDate": "2023-11-30",
+    "isActive": true,
+    "skills": [
+      "Go",
+      "Power BI",
+      "Vue",
+      "Python"
+    ],
+    "address": {
+      "city": "Toronto",
+      "state": "ON",
+      "country": "Canada"
+    },
+    "projects": 7,
+    "lastReview": "2024-05-17",
+    "performanceRating": 4.2
+  },
+  {
+    "id": 39,
+    "name": "Kenneth Martin",
+    "email": "kenneth.martin39@company.com",
+    "department": "Finance",
+    "role": "CFO Assistant",
+    "salary": 121000,
+    "joinDate": "2021-12-17",
+    "isActive": true,
+    "skills": [
+      "Vue",
+      "SQL",
+      "Go",
+      "Java",
+      "GraphQL"
+    ],
+    "address": {
+      "city": "London",
+      "state": "ENG",
+      "country": "UK"
+    },
+    "projects": 8,
+    "lastReview": "2023-12-10",
+    "performanceRating": 3.2
+  },
+  {
+    "id": 40,
+    "name": "Ruth Martin",
+    "email": "ruth.martin40@company.com",
+    "department": "Engineering",
+    "role": "DevOps Engineer",
+    "salary": 89000,
+    "joinDate": "2023-12-04",
+    "isActive": true,
+    "skills": [
+      "MongoDB",
+      "Figma"
+    ],
+    "address": {
+      "city": "Berlin",
+      "state": "BE",
+      "country": "Germany"
+    },
+    "projects": 1,
+    "lastReview": "2023-04-18",
+    "performanceRating": 4.8
+  },
+  {
+    "id": 41,
+    "name": "Kevin Lee",
+    "email": "kevin.lee41@company.com",
+    "department": "Marketing",
+    "role": "SEO Specialist",
+    "salary": 134000,
+    "joinDate": "2019-07-03",
+    "isActive": true,
+    "skills": [
+      "AWS",
+      "React",
+      "Power BI"
+    ],
+    "address": {
+      "city": "Sydney",
+      "state": "NSW",
+      "country": "Australia"
+    },
+    "projects": 2,
+    "lastReview": "2023-02-20",
+    "performanceRating": 4.6
+  },
+  {
+    "id": 42,
+    "name": "Sharon Lee",
+    "email": "sharon.lee42@company.com",
+    "department": "HR",
+    "role": "Recruiter",
+    "salary": 88000,
+    "joinDate": "2018-09-25",
+    "isActive": false,
+    "skills": [
+      "Rust",
+      "Power BI",
+      "Angular",
+      "MongoDB"
+    ],
+    "address": {
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "USA"
+    },
+    "projects": 3,
+    "lastReview": "2024-12-26",
+    "performanceRating": 2.7
+  },
+  {
+    "id": 43,
+    "name": "Brian Perez",
+    "email": "brian.perez43@company.com",
+    "department": "Legal",
+    "role": "Paralegal",
+    "salary": 76000,
+    "joinDate": "2024-03-20",
+    "isActive": true,
+    "skills": [
+      "Tableau",
+      "Figma",
+      "GraphQL",
+      "Power BI",
+      "MongoDB"
+    ],
+    "address": {
+      "city": "New York",
+      "state": "NY",
+      "country": "USA"
+    },
+    "projects": 4,
+    "lastReview": "2024-05-22",
+    "performanceRating": 3
+  },
+  {
+    "id": 44,
+    "name": "Michelle Perez",
+    "email": "michelle.perez44@company.com",
+    "department": "Sales",
+    "role": "Sales Director",
+    "salary": 144000,
+    "joinDate": "2023-02-26",
+    "isActive": true,
+    "skills": [
+      "Vue",
+      "AWS"
+    ],
+    "address": {
+      "city": "Austin",
+      "state": "TX",
+      "country": "USA"
+    },
+    "projects": 5,
+    "lastReview": "2024-09-12",
+    "performanceRating": 4.1
+  },
+  {
+    "id": 45,
+    "name": "George Thompson",
+    "email": "george.thompson45@company.com",
+    "department": "Marketing",
+    "role": "Marketing Manager",
+    "salary": 73000,
+    "joinDate": "2023-03-12",
+    "isActive": true,
+    "skills": [
+      "AWS",
+      "Rust",
+      "Figma"
+    ],
+    "address": {
+      "city": "Seattle",
+      "state": "WA",
+      "country": "USA"
+    },
+    "projects": 6,
+    "lastReview": "2023-03-18",
+    "performanceRating": 3.7
+  },
+  {
+    "id": 46,
+    "name": "Laura Thompson",
+    "email": "laura.thompson46@company.com",
+    "department": "HR",
+    "role": "HR Coordinator",
+    "salary": 89000,
+    "joinDate": "2018-09-07",
+    "isActive": true,
+    "skills": [
+      "Java",
+      "Kubernetes",
+      "Docker",
+      "Vue"
+    ],
+    "address": {
+      "city": "Chicago",
+      "state": "IL",
+      "country": "USA"
+    },
+    "projects": 7,
+    "lastReview": "2023-07-13",
+    "performanceRating": 2.5
+  },
+  {
+    "id": 47,
+    "name": "Edward White",
+    "email": "edward.white47@company.com",
+    "department": "Marketing",
+    "role": "SEO Specialist",
+    "salary": 65000,
+    "joinDate": "2018-04-09",
+    "isActive": true,
+    "skills": [
+      "Node.js",
+      "Python",
+      "React",
+      "Figma",
+      "Vue"
+    ],
+    "address": {
+      "city": "Boston",
+      "state": "MA",
+      "country": "USA"
+    },
+    "projects": 8,
+    "lastReview": "2023-05-16",
+    "performanceRating": 4.9
+  },
+  {
+    "id": 48,
+    "name": "Amanda White",
+    "email": "amanda.white48@company.com",
+    "department": "HR",
+    "role": "People Operations",
+    "salary": 76000,
+    "joinDate": "2018-02-18",
+    "isActive": true,
+    "skills": [
+      "Rust",
+      "Angular"
+    ],
+    "address": {
+      "city": "Denver",
+      "state": "CO",
+      "country": "USA"
+    },
+    "projects": 1,
+    "lastReview": "2024-02-07",
+    "performanceRating": 2.7
+  },
+  {
+    "id": 49,
+    "name": "Ronald Harris",
+    "email": "ronald.harris49@company.com",
+    "department": "Legal",
+    "role": "Compliance Officer",
+    "salary": 92000,
+    "joinDate": "2023-01-14",
+    "isActive": false,
+    "skills": [
+      "Go",
+      "Rust",
+      "TypeScript"
+    ],
+    "address": {
+      "city": "Atlanta",
+      "state": "GA",
+      "country": "USA"
+    },
+    "projects": 2,
+    "lastReview": "2024-04-07",
+    "performanceRating": 3.8
+  },
+  {
+    "id": 50,
+    "name": "Melissa Harris",
+    "email": "melissa.harris50@company.com",
+    "department": "Operations",
+    "role": "Supply Chain Analyst",
+    "salary": 130000,
+    "joinDate": "2021-12-16",
+    "isActive": true,
+    "skills": [
+      "TypeScript",
+      "GraphQL",
+      "MongoDB",
+      "Figma"
+    ],
+    "address": {
+      "city": "Portland",
+      "state": "OR",
+      "country": "USA"
+    },
+    "projects": 3,
+    "lastReview": "2023-06-08",
+    "performanceRating": 4.6
+  },
+  {
+    "id": 51,
+    "name": "John Sanchez 51",
+    "email": "john.sanchez51@company.com",
+    "department": "Engineering",
+    "role": "QA Engineer",
+    "salary": 132000,
+    "joinDate": "2022-12-22",
+    "isActive": true,
+    "skills": [
+      "Go",
+      "GraphQL",
+      "React",
+      "AWS",
+      "Python"
+    ],
+    "address": {
+      "city": "Miami",
+      "state": "FL",
+      "country": "USA"
+    },
+    "projects": 4,
+    "lastReview": "2023-05-14",
+    "performanceRating": 4.3
+  },
+  {
+    "id": 52,
+    "name": "Jane Sanchez 52",
+    "email": "jane.sanchez52@company.com",
+    "department": "Engineering",
+    "role": "DevOps Engineer",
+    "salary": 97000,
+    "joinDate": "2022-02-23",
+    "isActive": true,
+    "skills": [
+      "Go",
+      "Salesforce"
+    ],
+    "address": {
+      "city": "Toronto",
+      "state": "ON",
+      "country": "Canada"
+    },
+    "projects": 5,
+    "lastReview": "2023-08-22",
+    "performanceRating": 4.2
+  },
+  {
+    "id": 53,
+    "name": "Michael Clark 53",
+    "email": "michael.clark53@company.com",
+    "department": "HR",
+    "role": "HR Coordinator",
+    "salary": 99000,
+    "joinDate": "2024-01-31",
+    "isActive": true,
+    "skills": [
+      "AWS",
+      "Vue",
+      "Docker"
+    ],
+    "address": {
+      "city": "London",
+      "state": "ENG",
+      "country": "UK"
+    },
+    "projects": 6,
+    "lastReview": "2024-07-23",
+    "performanceRating": 4.7
+  },
+  {
+    "id": 54,
+    "name": "Emily Clark 54",
+    "email": "emily.clark54@company.com",
+    "department": "Finance",
+    "role": "Financial Analyst",
+    "salary": 112000,
+    "joinDate": "2020-03-31",
+    "isActive": true,
+    "skills": [
+      "Python",
+      "React",
+      "MongoDB",
+      "Node.js"
+    ],
+    "address": {
+      "city": "Berlin",
+      "state": "BE",
+      "country": "Germany"
+    },
+    "projects": 7,
+    "lastReview": "2023-03-06",
+    "performanceRating": 3.8
+  },
+  {
+    "id": 55,
+    "name": "David Ramirez 55",
+    "email": "david.ramirez55@company.com",
+    "department": "Design",
+    "role": "Product Designer",
+    "salary": 126000,
+    "joinDate": "2021-07-11",
+    "isActive": true,
+    "skills": [
+      "Docker",
+      "React",
+      "Angular",
+      "Go",
+      "SQL"
+    ],
+    "address": {
+      "city": "Sydney",
+      "state": "NSW",
+      "country": "Australia"
+    },
+    "projects": 8,
+    "lastReview": "2024-09-19",
+    "performanceRating": 4.8
+  }
+]
